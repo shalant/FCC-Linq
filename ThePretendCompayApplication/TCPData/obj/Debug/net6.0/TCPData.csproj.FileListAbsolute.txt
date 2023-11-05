@@ -1,0 +1,11 @@
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\bin\Debug\net6.0\TCPData.deps.json
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\bin\Debug\net6.0\TCPData.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\bin\Debug\net6.0\TCPData.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\refint\TCPData.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\TCPData.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPData\obj\Debug\net6.0\ref\TCPData.dll

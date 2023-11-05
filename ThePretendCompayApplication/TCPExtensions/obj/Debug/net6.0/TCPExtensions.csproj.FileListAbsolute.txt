@@ -1,0 +1,11 @@
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\bin\Debug\net6.0\TCPExtensions.deps.json
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\bin\Debug\net6.0\TCPExtensions.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\bin\Debug\net6.0\TCPExtensions.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\refint\TCPExtensions.dll
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\TCPExtensions.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq\ThePretendCompayApplication\TCPExtensions\obj\Debug\net6.0\ref\TCPExtensions.dll

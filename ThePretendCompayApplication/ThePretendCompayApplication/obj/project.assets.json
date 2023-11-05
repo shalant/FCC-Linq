@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TCPData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TCPData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPData.dll": {}
+        }
+      },
+      "TCPExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TCPData/1.0.0": {
+      "type": "project",
+      "path": "../TCPData/TCPData.csproj",
+      "msbuildProject": "../TCPData/TCPData.csproj"
+    },
+    "TCPExtensions/1.0.0": {
+      "type": "project",
+      "path": "../TCPExtensions/TCPExtensions.csproj",
+      "msbuildProject": "../TCPExtensions/TCPExtensions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TCPData >= 1.0.0",
+      "TCPExtensions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\digdr\\.nuget\\packages\\": {}
@@ -33,7 +68,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\digdr\\Documents\\coding\\FCC-Linq\\ThePretendCompayApplication\\TCPData\\TCPData.csproj": {
+              "projectPath": "C:\\Users\\digdr\\Documents\\coding\\FCC-Linq\\ThePretendCompayApplication\\TCPData\\TCPData.csproj"
+            },
+            "C:\\Users\\digdr\\Documents\\coding\\FCC-Linq\\ThePretendCompayApplication\\TCPExtensions\\TCPExtensions.csproj": {
+              "projectPath": "C:\\Users\\digdr\\Documents\\coding\\FCC-Linq\\ThePretendCompayApplication\\TCPExtensions\\TCPExtensions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
